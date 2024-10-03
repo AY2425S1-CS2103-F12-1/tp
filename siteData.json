@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "matthew-yip": "Matthew Yip",
         "rezwan-ahmed": "Rezwan Ahmed",
-        "johnny-doe": "Johnny Doe",
+        "chen-zi-yi": "Chen Zi Yi",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "insureance-app": "InSUREance APP"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/chenziyi.md",
+      "title": "Chen Zi Yi's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     },
