@@ -11,7 +11,7 @@
         "rezwan-ahmed": "Rezwan Ahmed",
         "chen-zi-yi": "Chen Zi Yi",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "ho-yan-qi": "Ho Yan Qi"
       },
       "headingKeywords": {}
     },
@@ -162,6 +162,14 @@
     {
       "src": "team/rezwanahmed.md",
       "title": "Rezwan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yanqiyqh.md",
+      "title": "Ho Yan Qi's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
