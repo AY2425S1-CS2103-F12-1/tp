@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "matthew-yip": "Matthew Yip",
-        "jane-doe": "Jane Doe",
+        "rezwan-ahmed": "Rezwan Ahmed",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
@@ -148,6 +148,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-insureance-app": "Project: inSUREance app"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/rezwanahmed.md",
+      "title": "Rezwan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     }
