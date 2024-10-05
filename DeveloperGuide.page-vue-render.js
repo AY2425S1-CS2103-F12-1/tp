@@ -257,7 +257,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to select a client.")]),_v
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Client index is invalid.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. System shows invalid index invalid error message.")]),_v(" "),_c('li',[_v("2a2. User enters new index.")])]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the index is valid.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Client index is invalid.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. System shows invalid index error message.")]),_v(" "),_c('li',[_v("2a2. User enters new index.")])]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the index is valid.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case 03: Delete a client")])])}
@@ -266,7 +266,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case 03: Delete a client")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(" to delete.")]),_v(" "),_c('li',[_v("System deletes the person.")])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(" to delete.")]),_v(" "),_c('li',[_v("System deletes the person.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -287,7 +287,7 @@ with(this){return _c('ol',[_c('li',[_v("User selects an insurance plan ID.")]),_
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The client does not have the specified insurance plan.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. System shows an error message to user.")])]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3b. The insurance plan id is invalid.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. System shows an error message to user.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2b. The insurance plan id is invalid.")]),_v(" "),_c('ul',[_c('li',[_v("2b1. System shows an error message to user.")])]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The client does not have the specified insurance plan.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. System shows an error message to user.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case 05: Add an insurance plan to a client")])])}
@@ -296,7 +296,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case 05: Add an insurance plan to
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(" and "),_c('a',{attrs:{"href":"#UC04"}},[_v("selects an insurance plan")]),_v(" to be added to the specified client.")]),_v(" "),_c('li',[_v("System adds the insurance plan to the client.")])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(" and "),_c('a',{attrs:{"href":"#UC04"}},[_v("select an insurance plan")]),_v(" to be added to the specified client.")]),_v(" "),_c('li',[_v("System adds the insurance plan to the client.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -311,7 +311,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case 06: Remove an insurance plan
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(", "),_c('a',{attrs:{"href":"#UC04"}},[_v("selects an insurance plan")]),_v(" of that client and requests it to be deleted.")]),_v(" "),_c('li',[_v("System removes the insurance plan from the client.")])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to list clients.")]),_v(" "),_c('li',[_v("System shows a list of clients.")]),_v(" "),_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(", "),_c('a',{attrs:{"href":"#UC04"}},[_v("select an insurance plan")]),_v(" of that client and requests it to be deleted.")]),_v(" "),_c('li',[_v("System removes the insurance plan from the client.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -326,7 +326,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case 07: View all claims of a cli
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(" and requests to view all claims of that client.")]),_v(" "),_c('li',[_v("System shows all claims for the client.")])])}
+with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(" and requests to view all claims of that client.")]),_v(" "),_c('li',[_v("System shows all claims for the client.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -341,7 +341,7 @@ with(this){return _c('p',[_c('a',{attrs:{"name":"UC08"}}),_c('strong',[_v("Use c
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(", "),_c('a',{attrs:{"href":"#UC04"}},[_v("selects a insurance plan")]),_v(" of the client and requests to select a claim of that specific insurance plan.")]),_v(" "),_c('li',[_v("System selects the claim specified by the user.")])])}
+with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(", "),_c('a',{attrs:{"href":"#UC04"}},[_v("select an insurance plan")]),_v(" of the client and requests to select a claim of that specific insurance plan.")]),_v(" "),_c('li',[_v("System selects the claim specified by the user.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -356,13 +356,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case 09: Add a claim to a client"
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("selects a client")]),_v(" and "),_c('a',{attrs:{"href":"#UC04"}},[_v("an insurance plan")]),_v(" of that client and requests to add a claim to selected insurance plan.")]),_v(" "),_c('li',[_v("System adds the claim to the insurance plan.")])])}
+with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(" and "),_c('a',{attrs:{"href":"#UC04"}},[_v("select an insurance plan")]),_v(" of that client and requests to add a claim to selected insurance plan.")]),_v(" "),_c('li',[_v("System adds the claim to the insurance plan.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The claim already exists for the client.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. System shows an error message.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The claim already exists for the client.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. System shows an error message.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case 09: Close a claim for a client")])])}
@@ -371,7 +371,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case 09: Close a claim for a clie
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC08"}},[_v("selects a claim")]),_v(" requests to close that claim for the specified client.")]),_v(" "),_c('li',[_v("System closes the claim for the client.")])])}
+with(this){return _c('ol',[_c('li',[_v("User "),_c('a',{attrs:{"href":"#UC02"}},[_v("select a client")]),_v(", "),_c('a',{attrs:{"href":"#UC08"}},[_v("select a claim")]),_v(" and requests to close that claim for the specified client.")]),_v(" "),_c('li',[_v("System closes the claim for the client.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -419,6 +419,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 4 Oct 2024, 15:47:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 5 Oct 2024, 21:34:50 GMT+8]")])])])}
 }];
   
