@@ -115,6 +115,8 @@
         "editing-a-client-edit": "Editing a client : edit",
         "locating-clients-by-name-find": "Locating clients by name: find",
         "deleting-a-client-delete": "Deleting a client : delete",
+        "adding-an-insurance-plan-to-a-client": "Adding an insurance plan to a client",
+        "deleting-an-insurance-plan-from-a-client": "Deleting an insurance plan from a client",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
