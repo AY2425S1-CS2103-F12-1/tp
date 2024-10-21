@@ -119,6 +119,7 @@
         "deleting-an-insurance-plan-from-a-client-deleteinsurance": "Deleting an insurance plan from a client : deleteInsurance",
         "adding-a-claim-to-the-client-addclaim": "Adding a claim to the client : addClaim",
         "deleting-a-claim-from-a-client-deleteclaim": "Deleting a claim from a client : deleteClaim",
+        "closing-a-claim-of-a-client-closeclaim": "Closing a claim of a client : closeClaim",
         "listing-all-claims-associated-with-a-client-listclaims": "Listing all claims associated with a client : listClaims",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
