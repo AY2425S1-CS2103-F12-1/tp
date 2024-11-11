@@ -392,6 +392,6 @@ with(this){return _c('p',[_v("Our implementations were at "),_c('strong',[_v("le
 with(this){return _c('p',[_v("Lastly, as our "),_c('strong',[_v("project involved money")]),_v(", a sensitive value that has to be precise and accurate, we decided to store all values in cents. This was to avoid having to use float (and having issues with floating point accuracy). However, this led to "),_c('strong',[_v("greater care required to parse and convert values")]),_v(" to cents and ended up being a very time-consuming method to unit test. This method was still not completely fixed (the constraint of a maximum claim amount of $1 Million was yet to be implemented).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 18:09:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 19:41:38 GMT+8]")])])])}
 }];
   
